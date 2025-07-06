@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AleEGs54/cse341-projects/issues"
   },
-  "homepage": "https://github.com/AleEGs54/cse341-projects#readme"
+  "homepage": "https://github.com/AleEGs54/cse341-projects#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
