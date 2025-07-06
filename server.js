@@ -10,7 +10,7 @@ mongoDb.initDb((error) => {
         console.log(error)
     } else {
         app.listen(port, () => {
-            console.log(`DB is runnin and server is listening on port ${port}`)
+            console.log(`DB is running and server is listening on port ${port}`)
         })
 
     }
